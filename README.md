@@ -10,3 +10,9 @@ everyday should also have a readme file for itself just for me to recap things a
 
 #### Day 1:
 Mostly played with AI and wasted a lot of time but read the first chapter of the book. Playing with AI was mostly making ciphers and text compression algorithms like caeser and huffman. Will go in depth on these in later dates. Tomorrow if I wake up early will solve 3 chapters and look at whatever I understand of the cipher code.
+
+#### Day 2:
+Maybe I should underpromise and over deliver rather than over promise and under deliver because I did not do much. Attended a wedding though.
+
+#### Day 3: 
+
