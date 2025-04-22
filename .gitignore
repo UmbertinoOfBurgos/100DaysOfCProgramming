@@ -1,0 +1,39 @@
+# Executables (Linux/WSL)
+*
+!*.*
+!*/
+*.out
+*.o
+*.so
+*.a
+
+# Specific executables often created by default
+a.out
+
+# Debug files
+*.dSYM/
+*.su
+*.gcno
+*.gcda
+core
+
+# Build directories
+bin/
+build/
+obj/
+
+# Other binary/generated files
+*.gch
+*.pch
+.*.swp
+
+# VS Code files
+.vscode/
+
+# Clang/GCC build artifacts
+*.d
+
+# Temp files
+*~
+.DS_Store
+ideas.md
