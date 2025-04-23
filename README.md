@@ -24,4 +24,5 @@ But for now, it is time for selection statements and loops.
 And also undefined behaviour and implementation defined behaviour.
 
 #### Day 5:
+Made my own header file and called a function from it. Seems to be taking longer than expected to get to pointers, hopefully by day 8. Explored loops today and nothing much. Also implemented a basic caesar cipher. Will go through basic types and arrays tomorrow. 
 
